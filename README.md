@@ -4,6 +4,12 @@ Author : Mahyar Sabouniaghdam
 
 Email : saboonimahyar@gmail.com
 
+- [Main Jupyter Notebook ( EDA & Feature Engineering & Text Cleaning & TF-IDF Vectorizing & Modeling & Model Optimization & ML Pipeline & Advanced Modeling & ROC-AUC ) ](https://github.com/mahyarsab/StackOverflow_Questions_Quality_Capstone_NLP_Project/blob/main/Mahyar_Sabouniaghdam_Capstone_Notebook1_Main.ipynb)
+- [Deep Learning Jupyter Notebook ( Deep Learning Models & ANN & Multi Class Neural Networks & XGBoost ) ](https://github.com/mahyarsab/StackOverflow_Questions_Quality_Capstone_NLP_Project/blob/main/Mahyar_Sabouniaghdam_Capstone_Notebook2_Deeplearning.ipynb)
+- [Capstone Project Business Report PDF File](https://github.com/mahyarsab/StackOverflow_Questions_Quality_Capstone_NLP_Project/blob/main/Mahyar_Sabouniaghdam_Capstone_Project_Business_Report.pdf)
+- [Capstone Project Demo Day Presentation PDF File](https://github.com/mahyarsab/StackOverflow_Questions_Quality_Capstone_NLP_Project/blob/main/Mahyar_Sabouniaghdam_Capstone_Project_Presentation.pdf)
+
+
 ![image](https://user-images.githubusercontent.com/122119114/225556215-a469d406-f794-4887-a921-00253b1c107e.png)
 
 <img align=right src="https://user-images.githubusercontent.com/122119114/225575101-06ab10a4-0c4c-4f7c-8bc4-a44e0d7a029b.png">
